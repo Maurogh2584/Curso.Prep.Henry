@@ -90,7 +90,7 @@ Una vez tengas la dirección copiada, abre una terminal nueva y escribe lo sigui
 
   $ cd CarpetaHenry
 
-  $ git clone [dirección copiada]
+  $ git clone https://github.com/Maurogh2584/repositorio-henry.git
 ```
 
 Esto descargará el repositorio y tendrás disponible una copia local guardada en tu máquina.

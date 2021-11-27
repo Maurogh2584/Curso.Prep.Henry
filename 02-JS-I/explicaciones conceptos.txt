@@ -1,0 +1,27 @@
+* Variables: Como su palabra lo indica son tipos de de datos que varian y 
+             pueden ser numeros  o texto y tipos de datos verdaderos o falsos.
+
+* Strings: Son cadena de caracteres que van entre comillas simples o dobles.
+
+* Funciones (argumentos, `return`): Una función es un conjunto de instrucciones
+                                    que se agrupan para realizar una tarea concreta 
+                                    y que se pueden reutilizar todas las veces que se
+                                    nesecite, sirve para andar escribiendo una y otra 
+                                    vez el mismo codigo.
+                                    Por otra parte los argumentos son los valores que 
+                                    se pasan a la función cuando ésta es invocada.
+                                    La sentencia 'return' finaliza la ejecución de la 
+                                    función y especifica un valor para ser devuelto a 
+                                    quien llama a la función.
+
+* Declaraciones `if`: Es un condicional que sirve para realizar unas u otras 
+                      operaciones en función de una expresión, es decir se indica una
+                      operacion o expresion es positiva, entonces se realizan las acciones 
+                      correspondientes.
+
+* Valores booleanos (`true`, `false`): los valores booleanos son tipos de datos que solo 
+                                       pueden tener dos estados, verdadero / true o 
+                                       false / false.
+
+ 
+
